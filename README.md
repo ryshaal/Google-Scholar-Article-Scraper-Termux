@@ -32,7 +32,7 @@ In the `input_query` folder, create a file named `query.txt` and enter your sear
 
 4. Run the script:
     ```bash
-    python scraper.py
+    python gscholar.py
     ```
 
 5. Output: 
