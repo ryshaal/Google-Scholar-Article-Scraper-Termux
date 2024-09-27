@@ -28,7 +28,7 @@ This Python script allows you to scrape article data from Google Scholar based o
     ```
 
 3. Create a text file for your query:
-In the `input_query` folder, create a file named `query.txt and` enter your search query.
+In the `input_query` folder, create a file named `query.txt` and enter your search query.
 
 4. Run the script:
     ```bash
